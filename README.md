@@ -1,4 +1,4 @@
-# exoUdemyJanvier2023
+# UDEMY - ExoChaineDeLAmitie
 
 La chaîne de l’amitié.
 Cette semaine nous vous proposons un Challenge dont l’énoncé est très simple, mais la réalisation peut-être plus ou moins avancée.
